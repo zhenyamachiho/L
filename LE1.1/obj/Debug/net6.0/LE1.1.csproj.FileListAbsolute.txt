@@ -1,0 +1,15 @@
+/Users/Zhenya/Desktop/LE1/LE1.1/bin/Debug/net6.0/LE1.1
+/Users/Zhenya/Desktop/LE1/LE1.1/bin/Debug/net6.0/LE1.1.deps.json
+/Users/Zhenya/Desktop/LE1/LE1.1/bin/Debug/net6.0/LE1.1.runtimeconfig.json
+/Users/Zhenya/Desktop/LE1/LE1.1/bin/Debug/net6.0/LE1.1.dll
+/Users/Zhenya/Desktop/LE1/LE1.1/bin/Debug/net6.0/LE1.1.pdb
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.csproj.AssemblyReference.cache
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.AssemblyInfoInputs.cache
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.AssemblyInfo.cs
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.csproj.CoreCompileInputs.cache
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.dll
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/refint/LE1.1.dll
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.pdb
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/LE1.1.genruntimeconfig.cache
+/Users/Zhenya/Desktop/LE1/LE1.1/obj/Debug/net6.0/ref/LE1.1.dll
